@@ -1,0 +1,4 @@
+---
+npx create-react-app minimal-website
+cd minimal-website
+---
